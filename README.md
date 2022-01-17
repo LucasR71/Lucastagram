@@ -1,6 +1,5 @@
 # lucastagram (lucastagram)
 
-Instagram clone with quasar vue and firebase
 
 ## Install the dependencies
 ```bash
